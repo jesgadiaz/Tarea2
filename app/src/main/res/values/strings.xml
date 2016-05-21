@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Tarea2</string>
+    <string name="name">Nombre completo</string>
+    <string name="birthday">Fecha de nacimiento</string>
+    <string name="telephone">Teléfono</string>
+    <string name="email">E-mail</string>
+    <string name="description">Descripción del contacto</string>
+    <string name="next">Siguiente</string>
+    <string name="confirm_data">Confirmar datos</string>
+    <string name="edit_data">Editar datos</string>
 </resources>
